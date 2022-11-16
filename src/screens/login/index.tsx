@@ -4,9 +4,7 @@ import {
   Text,
   TouchableOpacity,
   Image,
-  TextInput,
-  FlatList,
-  StatusBar,
+  TextInput
 } from "react-native";
 import { styles, perfil } from "./styles";
 import Ben10 from "../../assets/ben10.jpg";
